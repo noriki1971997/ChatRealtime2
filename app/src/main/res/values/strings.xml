@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatRealtime</string>
+    <string name="button">Button</string>
+
+    <string name="title_activity_main_screen">mainScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="left">Left</string>
+</resources>
